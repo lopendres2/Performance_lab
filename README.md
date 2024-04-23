@@ -2,11 +2,11 @@
 
 
 ```python task1.py 4 3
-python task1.py 5 4```
-
+python task1.py 5 4
+```
 2 задание
 
-```python task2.py circle.txt points.txt
+python task2.py circle.txt points.txt
 
 3 задание
 
