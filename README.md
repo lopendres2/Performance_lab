@@ -1,23 +1,20 @@
-# Мой проект
+1 задание
 
-Это мой проект, где я описываю его.
 
-## Как использовать
+```python task1.py 4 3
+python task1.py 5 4
 
-Чтобы использовать этот проект, выполните следующие шаги:
+2 задание
 
-1. Скачайте репозиторий.
-2. Установите зависимости, запустив `npm install`.
-3. Запустите проект, используя команду `npm start`.
+```python task2.py circle.txt points.txt
 
-## Пример кода
+3 задание
 
-Вот пример блока кода на JavaScript:
 
-```javascript
-function greet(name) {
-    console.log(`Привет, ${name}!`);
-}
+```python task3.py values.json tests.json report.json
 
-greet('Мир');
+4 задание
+
+
+```python task4.py numbers.txt
 
