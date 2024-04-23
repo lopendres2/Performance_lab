@@ -1,20 +1,23 @@
-1 задание
+# Мой проект
 
-cd task1
-python task1.py 4 3
-python task1.py 5 4
+Это мой проект, где я описываю его.
 
-2 задание
+## Как использовать
 
-cd task2
-python task2.py circle.txt points.txt
+Чтобы использовать этот проект, выполните следующие шаги:
 
-3 задание
+1. Скачайте репозиторий.
+2. Установите зависимости, запустив `npm install`.
+3. Запустите проект, используя команду `npm start`.
 
-cd task3
-python task3.py values.json tests.json report.json
+## Пример кода
 
-4 задание
+Вот пример блока кода на JavaScript:
 
-cd task4
-python task4.py numbers.txt
+```javascript
+function greet(name) {
+    console.log(`Привет, ${name}!`);
+}
+
+greet('Мир');
+
